@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@dotenvx/dotenvx": "^0.44.0",
+    "cassandra-driver": "^4.7.2",
     "express": "^4.19.2",
     "openai": "^4.47.1"
   },
